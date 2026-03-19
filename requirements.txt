@@ -2,3 +2,4 @@ pyrogram
 tgcrypto
 pytgcalls
 yt-dlp
+python-3.10.13
